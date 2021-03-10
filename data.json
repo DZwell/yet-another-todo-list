@@ -1,0 +1,26 @@
+[
+  {
+  "name": "mow lawn",
+  "completed": false
+},
+  {
+  "name": "garbage",
+  "completed": false
+},
+  {
+  "name": "dishes",
+  "completed": false
+},
+  {
+  "name": "clip cat nails",
+  "completed": false
+},
+  {
+  "name": "shave face",
+  "completed": false
+},
+  {
+  "name": "water garden",
+  "completed": false
+}
+]
